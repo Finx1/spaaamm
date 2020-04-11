@@ -2,14 +2,6 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
-const client4 = new Discord.Client();
-const client5 = new Discord.Client();
-const client6 = new Discord.Client();
-const client7 = new Discord.Client();
-const client8 = new Discord.Client();
-const client9 = new Discord.Client();
-const client10 = new Discord.Client();
-const client11 = new Discord.Client();
 
 
 
@@ -233,30 +225,30 @@ client11.on('message', message => {
 //-------------------------------------------------
 client.on('ready', async() => {
 var server = "555874796378783754"; 
-var channel = "555874868734722061";
+var channel = "698674131020808292";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('by , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk')
     },50);
 })
 
 client2.on('ready', async() => {
-var server = "555874796378783754"; 
-var channel = "555874879887507467";
+var server = "698674130496782376"; 
+var channel = "698674131020808292";
     setInterval(()=>{
     client2.guilds.get(server).channels.get(channel).send('by , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk')
     },50);
 })
 
 client3.on('ready', async() => {
-var server = "555874796378783754"; 
-var channel = "555874893036781617";
+var server = "698674130496782376"; 
+var channel = "698674131020808292";
     setInterval(()=>{
     client3.guilds.get(server).channels.get(channel).send('by , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk')
     },50);
 })
 
 client4.on('ready', async() => {
-var server = "555874796378783754"; 
+var server = "698674130496782376"; 
 var channel = "555874903195254790";
     setInterval(()=>{
     client4.guilds.get(server).channels.get(channel).send('by , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk , DrTriCk')
